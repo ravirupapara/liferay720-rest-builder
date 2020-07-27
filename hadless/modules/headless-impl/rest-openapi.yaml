@@ -1,0 +1,8 @@
+openapi: 3.0.1
+info:
+  license:
+        name: "Apache 2.0"
+        url: "http://www.apache.org/licenses/LICENSE-2.0.html"
+  title: "Headless API"
+  version: v1.0
+  description: "API for accessing Headless details."

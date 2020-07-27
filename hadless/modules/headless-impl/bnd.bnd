@@ -1,0 +1,4 @@
+Bundle-Name: headless-impl
+Bundle-SymbolicName: com.headless
+Bundle-Version: 1.0.0
+Export-Package: com.headless.api

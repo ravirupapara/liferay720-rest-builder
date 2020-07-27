@@ -1,0 +1,7 @@
+apiDir: "../headless-api/src/main/java"
+apiPackagePath: "com.headless.api"
+application:
+    baseURI: "/restapi"
+    className: "HeadlessApplication"
+    name: "Liferay.Headless"
+author: "Ravi Rupapara"
